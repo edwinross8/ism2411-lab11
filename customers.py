@@ -19,7 +19,7 @@ print(customer["ytd_spend"])
 print(customer)
 
 
-# exercise 2
+# exercise 2...
 
 
 print("--- Exercise 2 ---")
